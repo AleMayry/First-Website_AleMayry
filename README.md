@@ -1,5 +1,6 @@
 # First-Website_AleMayry
 This is a reuploaded version of my first website made for a Laurea UAS beginner course "Website Development".
+All files have been originally developed before May, 2022.
 (Aleksi Mäyry R0244-3025 Verkkosivukehitys verkkosivut, uudelleen julkaistu.)
 
 ## General information
