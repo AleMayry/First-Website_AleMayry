@@ -12,3 +12,10 @@ During the course, the topic I chose for the website was "Hamsters and hamster-c
 ## Technologies used
 
 This starter project uses basic technologies and languages, like HTML and CSS. Some styles for components, such as the _nav-bar_ and _footer_ are created utilizing Bootstrap -framework. 
+
+## Website address
+
+https://first-website-alemayry.netlify.app/ 
+
+## Netlify publish status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ca3b0fdc-5ca5-42b9-90a4-fd07a6ac3e62/deploy-status)](https://app.netlify.com/sites/first-website-alemayry/deploys)
